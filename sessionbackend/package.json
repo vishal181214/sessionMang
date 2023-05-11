@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "connect-mongodb-session": "^3.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "sessionbackend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

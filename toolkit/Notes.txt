@@ -1,0 +1,9 @@
+flow of react-redux
+
+step 1: Install packages 
+       npm i @reduxjs/toolkit react-redux
+
+step 2: Create Global Store
+step 3: Create Slice(reducer logic present inside slice)
+step 4: Add slice Reducers to the Store
+step 5: Implement useSelector & useDispatch in react comp
